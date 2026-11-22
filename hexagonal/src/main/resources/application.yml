@@ -1,0 +1,9 @@
+example:
+  client:
+    adress:
+      url: http://localhost:8082/adress
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/hexagonal
